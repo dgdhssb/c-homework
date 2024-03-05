@@ -1,0 +1,16 @@
+D:\C#总和\软件构造基础作业\Work1_2\Work1_2\bin\Debug\net8.0-windows\Work1_2.exe
+D:\C#总和\软件构造基础作业\Work1_2\Work1_2\bin\Debug\net8.0-windows\Work1_2.deps.json
+D:\C#总和\软件构造基础作业\Work1_2\Work1_2\bin\Debug\net8.0-windows\Work1_2.runtimeconfig.json
+D:\C#总和\软件构造基础作业\Work1_2\Work1_2\bin\Debug\net8.0-windows\Work1_2.dll
+D:\C#总和\软件构造基础作业\Work1_2\Work1_2\bin\Debug\net8.0-windows\Work1_2.pdb
+D:\C#总和\软件构造基础作业\Work1_2\Work1_2\obj\Debug\net8.0-windows\Work1_2.Form1.resources
+D:\C#总和\软件构造基础作业\Work1_2\Work1_2\obj\Debug\net8.0-windows\Work1_2.csproj.GenerateResource.cache
+D:\C#总和\软件构造基础作业\Work1_2\Work1_2\obj\Debug\net8.0-windows\Work1_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#总和\软件构造基础作业\Work1_2\Work1_2\obj\Debug\net8.0-windows\Work1_2.AssemblyInfoInputs.cache
+D:\C#总和\软件构造基础作业\Work1_2\Work1_2\obj\Debug\net8.0-windows\Work1_2.AssemblyInfo.cs
+D:\C#总和\软件构造基础作业\Work1_2\Work1_2\obj\Debug\net8.0-windows\Work1_2.csproj.CoreCompileInputs.cache
+D:\C#总和\软件构造基础作业\Work1_2\Work1_2\obj\Debug\net8.0-windows\Work1_2.dll
+D:\C#总和\软件构造基础作业\Work1_2\Work1_2\obj\Debug\net8.0-windows\refint\Work1_2.dll
+D:\C#总和\软件构造基础作业\Work1_2\Work1_2\obj\Debug\net8.0-windows\Work1_2.pdb
+D:\C#总和\软件构造基础作业\Work1_2\Work1_2\obj\Debug\net8.0-windows\Work1_2.genruntimeconfig.cache
+D:\C#总和\软件构造基础作业\Work1_2\Work1_2\obj\Debug\net8.0-windows\ref\Work1_2.dll

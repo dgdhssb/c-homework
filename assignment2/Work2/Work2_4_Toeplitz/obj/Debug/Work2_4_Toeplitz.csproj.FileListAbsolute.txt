@@ -1,0 +1,7 @@
+D:\C#总和\软件构造基础作业\assignment2\Work2\Work2_4_Toeplitz\bin\Debug\Work2_4_Toeplitz.exe.config
+D:\C#总和\软件构造基础作业\assignment2\Work2\Work2_4_Toeplitz\bin\Debug\Work2_4_Toeplitz.exe
+D:\C#总和\软件构造基础作业\assignment2\Work2\Work2_4_Toeplitz\bin\Debug\Work2_4_Toeplitz.pdb
+D:\C#总和\软件构造基础作业\assignment2\Work2\Work2_4_Toeplitz\obj\Debug\Work2_4_Toeplitz.csproj.AssemblyReference.cache
+D:\C#总和\软件构造基础作业\assignment2\Work2\Work2_4_Toeplitz\obj\Debug\Work2_4_Toeplitz.csproj.CoreCompileInputs.cache
+D:\C#总和\软件构造基础作业\assignment2\Work2\Work2_4_Toeplitz\obj\Debug\Work2_4_Toeplitz.exe
+D:\C#总和\软件构造基础作业\assignment2\Work2\Work2_4_Toeplitz\obj\Debug\Work2_4_Toeplitz.pdb

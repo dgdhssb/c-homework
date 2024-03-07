@@ -1,0 +1,7 @@
+D:\C#总和\软件构造基础作业\assignment2\Work2\Work2_3_Prime\bin\Debug\Work2_3_Prime.exe.config
+D:\C#总和\软件构造基础作业\assignment2\Work2\Work2_3_Prime\bin\Debug\Work2_3_Prime.exe
+D:\C#总和\软件构造基础作业\assignment2\Work2\Work2_3_Prime\bin\Debug\Work2_3_Prime.pdb
+D:\C#总和\软件构造基础作业\assignment2\Work2\Work2_3_Prime\obj\Debug\Work2_3_Prime.csproj.AssemblyReference.cache
+D:\C#总和\软件构造基础作业\assignment2\Work2\Work2_3_Prime\obj\Debug\Work2_3_Prime.csproj.CoreCompileInputs.cache
+D:\C#总和\软件构造基础作业\assignment2\Work2\Work2_3_Prime\obj\Debug\Work2_3_Prime.exe
+D:\C#总和\软件构造基础作业\assignment2\Work2\Work2_3_Prime\obj\Debug\Work2_3_Prime.pdb

@@ -1,7 +1,0 @@
-D:\C#总和\软件构造基础作业\assignment2\Work2\Work2_2_Nums\bin\Debug\Work2_2_Nums.exe.config
-D:\C#总和\软件构造基础作业\assignment2\Work2\Work2_2_Nums\bin\Debug\Work2_2_Nums.exe
-D:\C#总和\软件构造基础作业\assignment2\Work2\Work2_2_Nums\bin\Debug\Work2_2_Nums.pdb
-D:\C#总和\软件构造基础作业\assignment2\Work2\Work2_2_Nums\obj\Debug\Work2_2_Nums.csproj.AssemblyReference.cache
-D:\C#总和\软件构造基础作业\assignment2\Work2\Work2_2_Nums\obj\Debug\Work2_2_Nums.csproj.CoreCompileInputs.cache
-D:\C#总和\软件构造基础作业\assignment2\Work2\Work2_2_Nums\obj\Debug\Work2_2_Nums.exe
-D:\C#总和\软件构造基础作业\assignment2\Work2\Work2_2_Nums\obj\Debug\Work2_2_Nums.pdb

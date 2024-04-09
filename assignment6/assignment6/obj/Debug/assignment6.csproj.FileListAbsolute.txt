@@ -1,0 +1,16 @@
+D:\C#总和\软件构造基础作业\assignment6\assignment6\bin\Debug\assignment6.exe.config
+D:\C#总和\软件构造基础作业\assignment6\assignment6\bin\Debug\assignment6.exe
+D:\C#总和\软件构造基础作业\assignment6\assignment6\bin\Debug\assignment6.pdb
+D:\C#总和\软件构造基础作业\assignment6\assignment6\obj\Debug\assignment6.csproj.AssemblyReference.cache
+D:\C#总和\软件构造基础作业\assignment6\assignment6\obj\Debug\assignment6.Form1.resources
+D:\C#总和\软件构造基础作业\assignment6\assignment6\obj\Debug\assignment6.Properties.Resources.resources
+D:\C#总和\软件构造基础作业\assignment6\assignment6\obj\Debug\assignment6.csproj.GenerateResource.cache
+D:\C#总和\软件构造基础作业\assignment6\assignment6\obj\Debug\assignment6.csproj.CoreCompileInputs.cache
+D:\C#总和\软件构造基础作业\assignment6\assignment6\obj\Debug\assignment6.exe
+D:\C#总和\软件构造基础作业\assignment6\assignment6\obj\Debug\assignment6.pdb
+D:\C#总和\软件构造基础作业\assignment6\assignment6\obj\Debug\assignment6.OrderSystem.resources
+D:\C#总和\软件构造基础作业\assignment6\assignment6\obj\Debug\assignment6.AddOrderHHH.resources
+D:\C#总和\软件构造基础作业\assignment6\assignment6\obj\Debug\assignment6.AllGoods.resources
+D:\C#总和\软件构造基础作业\assignment6\assignment6\obj\Debug\assignment6.FindOrders.resources
+D:\C#总和\软件构造基础作业\assignment6\assignment6\obj\Debug\assignment6.DeleteOrder.resources
+D:\C#总和\软件构造基础作业\assignment6\assignment6\obj\Debug\assignment6.ChangeOrder.resources

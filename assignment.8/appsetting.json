@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=localhost;Database=todoDB;User=root;Password=chen123;Charset=utf8"
+  }
+}

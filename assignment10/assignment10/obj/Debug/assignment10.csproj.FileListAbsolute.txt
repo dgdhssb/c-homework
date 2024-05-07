@@ -1,0 +1,7 @@
+D:\C#总和\软件构造基础作业\assignment10\assignment10\bin\Debug\assignment10.exe.config
+D:\C#总和\软件构造基础作业\assignment10\assignment10\bin\Debug\assignment10.exe
+D:\C#总和\软件构造基础作业\assignment10\assignment10\bin\Debug\assignment10.pdb
+D:\C#总和\软件构造基础作业\assignment10\assignment10\obj\Debug\assignment10.csproj.AssemblyReference.cache
+D:\C#总和\软件构造基础作业\assignment10\assignment10\obj\Debug\assignment10.csproj.CoreCompileInputs.cache
+D:\C#总和\软件构造基础作业\assignment10\assignment10\obj\Debug\assignment10.exe
+D:\C#总和\软件构造基础作业\assignment10\assignment10\obj\Debug\assignment10.pdb
